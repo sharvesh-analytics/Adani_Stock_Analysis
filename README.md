@@ -14,4 +14,4 @@ This project analyzes the stock market data of Adani Enterprises using Python li
 * Jupyter Notebook
 * Pandas
 * NumPy
-*
+* Matplotlib
