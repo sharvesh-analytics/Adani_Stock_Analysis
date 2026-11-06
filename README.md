@@ -1,4 +1,4 @@
-# Adani Stock Analysis Project 📈
+ # Adani Stock Analysis Project 📈
 
 This project analyzes the stock market data of Adani Enterprises using Python libraries like **Pandas**, **NumPy**, and **Matplotlib**.
 
